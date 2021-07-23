@@ -6,7 +6,7 @@
   "dependencies": {
     "@emotion/core": "^10.0.14",
     "docker": "^1.0.0",
-    "firebase": "^6.3.3",
+    "firebase": "^8.8.0",
     "materialize-css": "^1.0.0-rc.2",
     "node": "12",
     "nodemailer": "^6.3.0",
